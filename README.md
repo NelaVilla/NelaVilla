@@ -1,7 +1,6 @@
-### Hi I'm Nela!
+### Hi I'm Brunela!
 
 Front End developer :computer:
 - 🌱 Estoy aprendiendo Vue JS 
 - 🤔 Estoy interesada en el desarrollo web
-- 📫 Puedes escribirme a : [email](b.villacastro@gmail.com)
-
+- 📫 Puedes escribirme a :[Brunela Villa](mailto:b.villacastro@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
